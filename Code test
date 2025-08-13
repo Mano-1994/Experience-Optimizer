@@ -1,0 +1,12 @@
+import random
+
+compliments = [
+    "You have an impeccable sense of style.",
+    "Your brain is basically a supercomputer.",
+    "You make difficult things look easy.",
+    "You radiate positive energy.",
+    "You're secretly everyone's favorite person.",
+    "You have a laugh that could start a revolution."
+]
+
+print(random.choice(compliments))
